@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-""""""
+"""
+Module containing the async_comprehension coroutine.
+"""
 
 
 import asyncio
